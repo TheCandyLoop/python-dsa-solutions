@@ -2,13 +2,12 @@
 
 This repository contains optimized solutions for Data Structures and Algorithms problems using Python.
 
-## Problem Added
+## Problems Added
 
-### Longest Substring Without Repeating Characters
-
-- Technique: Sliding Window + HashMap
-- Time Complexity: O(n)
-- Space Complexity: O(n)
+1. Longest Substring Without Repeating Characters
+2. API Pagination Logic
+3. Top Selling Products
+4. Customers Without Orders
 
 ## Platforms
 - LeetCode
